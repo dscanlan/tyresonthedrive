@@ -20,7 +20,7 @@
     "baseUrl": "src",
     "allowSyntheticDefaultImports": true,
     "noFallthroughCasesInSwitch": true,
-    "types": []
+    "types": [ "jest", "@testing-library/jest-dom" ]
   },
   "include": [
     "next-env.d.ts",
